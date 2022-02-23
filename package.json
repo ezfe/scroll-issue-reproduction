@@ -1,0 +1,21 @@
+{
+  "name": "tellraw",
+  "description": "Minecraft Formatted JSON Creator",
+  "repository": "https://github.com/ezfe/tellraw",
+  "author": "ezfe",
+  "license": "MIT",
+  "version": "7.4.0",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-static": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0",
+    "svelte-preprocess": "^4.10.1"
+  },
+  "type": "module"
+}
